@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: white;
+    color: black;
+    line-height: 1.5;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+h1 {
+    color: white;
+    background-color: #5E548E;
+    font-size: 4rem;
+}
+
+h2,
+h3 {
+    color: #231942;
+}
+
+p {
+    background-color: #E0B1CB;
+    color: #231942;
+    font-size: 2rem;
+}
+
+ul {
+    list-style-type: none;
+    background-color: #5E548E;
+}
+
+ul a {
+    color: white;
+    font-size: 2.5rem;
+    text-decoration: none;
+}
+
+footer {
+    color: #231942;
+
+}
+
+.section {
+    color: #E0B1CB;
+    font-weight: bold;
+}
