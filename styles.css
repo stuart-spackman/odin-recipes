@@ -1,6 +1,6 @@
 * {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -26,6 +26,7 @@ h1 {
     width: 666px;
     margin: auto;
     border: 10px solid #BE95C4;
+    border-radius: 6px;
 }
 
 p {
@@ -34,6 +35,7 @@ p {
     font-size: 2rem;
     margin: 20px 13rem;
     border: 10px solid #5E548E;
+    border-radius: 6px;
 }
 
 ul {
@@ -42,7 +44,7 @@ ul {
     width: 666px;
     margin: auto;
     border: 10px solid #BE95C4;
-
+    border-radius: 6px;
 }
 
 ul a {
@@ -59,4 +61,5 @@ footer {
     margin-right: auto;
     border: 10px solid #5E548E;
     padding: 20px;
+    border-radius: 6px;
 }
