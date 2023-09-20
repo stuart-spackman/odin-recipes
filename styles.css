@@ -18,6 +18,11 @@ body {
     color: #E0B1CB;
 }
 
+#header {
+    width: 666px;
+    margin: 0 auto 12px auto;
+}
+
 h1 {
     color: white;
     background-color: #5E548E;
